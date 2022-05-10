@@ -1,0 +1,35 @@
+10 Sec Maths Game
+
+It's a game where the user needs to input the correct answer to a basic arithmetic equation. Such as 5 + 10. However, there is a time limit of 10 seconds for which the user can input the correct answer and progress to the next question.
+
+If the user runs out of time, the game ends. If the user makes a correct guess, an additional 1 second is added to the available time. Your game needs to satisfy the following criteria.
+
+------
+Minimum requirements:
+
+- [x] An input for the user to type the answer.
+- [x] An element displaying the current math equation question.
+- [x] Equations uses "+" operator only.
+- [x] A count down for the time left.
+- [x] The game starts when the user clicks a button or starts typing in the input.
+- [x] The game ends when the user runs out of time.
+- [x] When the user makes a correct guess, add 1 second to the available time left.
+- [x] The current score is shown.
+- [x] A way to restart the game if time runs out.
+- [ ] Track project with Git and on GitHub.
+- [ ] Set up GitHub Page once project is finished. 
+- [ ] Use Bootstrap 5
+
+Bonus features:
+- [ ] Multiple question types (+, -, *, /).
+- [ ] Make sure (-) questions always have positive whole number answers.
+- [ ] Make sure (/) questions always have positive whole number answers.
+- [ ] Number limit for the user to set.
+- [ ] High score indicator for the high score in the current session.
+
+UI:
+- [ ] Find UI template to get ideas for design.
+
+
+---------------
+
