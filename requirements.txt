@@ -16,9 +16,9 @@ Minimum requirements:
 - [x] When the user makes a correct guess, add 1 second to the available time left.
 - [x] The current score is shown.
 - [x] A way to restart the game if time runs out.
-- [ ] Track project with Git and on GitHub.
-- [ ] Set up GitHub Page once project is finished. 
-- [ ] Use Bootstrap 5
+- [x] Track project with Git and on GitHub.
+- [x] Set up GitHub Page once project is finished. 
+- [x] Use Bootstrap 5
 
 Bonus features:
 - [ ] Multiple question types (+, -, *, /).
@@ -28,8 +28,10 @@ Bonus features:
 - [ ] High score indicator for the high score in the current session.
 
 UI:
+- [ ] Use all available Bootstrap 5 options to improve design.
 - [ ] Find UI template to get ideas for design.
-
+      https://nicepage.com/website-templates
+      
 
 ---------------
 

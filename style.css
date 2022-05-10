@@ -1,0 +1,10 @@
+.container {
+  position: relative;
+}
+
+.main-content {
+  position: absolute;
+  top: 10vw;
+  right: 0;
+  left: 0;
+}
